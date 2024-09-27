@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>My name is Bipin Acharya and I'm a software developer who loves to create apps using Flutter and websites using Laravel. Currently, I'm pursuing my BSC Hons degree and constantly learning and improving my skills. Here on my GitHub profile, you can find some of my projects and contributions to the open-source community. Feel free to explore and connect with me!
+Hey there! 👋<br>My name is Bipin Acharya and I'm a software developer who loves to create apps using Flutter and websites using Laravel. Currently, I'm pursuing my BSC Hons degree and constantly learning and improving my skills. Here on my GitHub profile, you can find some of my projects. Feel free to explore and connect with me!
 
 
 ## 🌐 Socials:
