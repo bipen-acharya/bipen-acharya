@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hey there! 👋<br>My name is Bipin Acharya and I'm a software developer who loves to create apps using Flutter and websites using Laravel. Currently, I'm pursuing my BSC Hons degree and constantly learning and improving my skills. Here on my GitHub profile, you can find some of my projects. Feel free to explore and connect with me!
-
+👋 Hi, I'm Bipin Acharya
+I'm a passionate software developer and tech enthusiast with experience in building real-world mobile and web applications. I specialize in Flutter, Laravel, Firebase, and UI/UX design.
+I'm currently pursuing my Master of Information and Communications Technology at the University of the Sunshine Coast in Adelaide.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bipin__acharya_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bipin-acharya-a9912618b/) 
